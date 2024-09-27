@@ -67,8 +67,8 @@ content:
       - layout: left
         title: 호서대학교
         caption: 
-        quote: >
-        
+
+       
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
