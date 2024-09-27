@@ -59,24 +59,23 @@ content:
       - layout: left
         title: 방송통신대학교
         caption: 재학중
-
-    
-      - layout: left
-        title: 방송통신대학교
-        caption: 재학중
         quote: >
         
         description: | # this will include new lines to allow paragraphs
-         게임 개발 공부를 하다 보니 기초적인 부분의 부족함을 느껴 방송통신대학교를 다시 재학중 입니다.
-
+        게임 개발 공부를 하다 보니 기초적인 부분의 부족함을 느껴 방송통신대학교를 다시 재학중 입니다.
+    
+      - layout: left
+        title: 호서대학교
+        caption: 
+        quote: >
+        
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+     게임개발 외에도 다음과 같은 관심사와 취미가 있습니다.
+      - 게임
+      - 헬스
+      - 노름      
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
