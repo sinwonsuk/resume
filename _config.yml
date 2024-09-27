@@ -64,6 +64,7 @@ content:
     layout: text   
     content: 
       - layout: top-middle
+        sections:
           - title: "**게임 개발 도전 계기**"
             description: | 
               평소에도 게임을 좋아하긴 했지만 게임을 만드는 건 게임을 좋아하는 것과는 별개라 생각하여 마음속으로 묻어두기만 하고 생활하였습니다. 
