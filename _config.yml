@@ -55,8 +55,7 @@ content:
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content:    
-    
+    content:     
       - layout: left
         title: 방송통신대학교
         caption: 재학중
@@ -64,8 +63,6 @@ content:
         
         description: | # this will include new lines to allow paragraphs
          게임 개발 공부를 하다 보니 기초적인 부분의 부족함을 느껴 방송통신대학교를 다시 재학중 입니다.
-
-
 
  - title: A Little More About Me
     layout: text
