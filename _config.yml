@@ -50,8 +50,6 @@ content:
       - layout: left
         title: (주)도은           
         caption: 2018.01~2020.04
-        quote: >
-          Solving 
         description: | # this will include new lines to allow paragraphs
             생산직에서 일하며 효율적인 작업 방식과 문제 해결 능력을 키웠으며, 팀워크와 책임감의 중요성을 배웠습니다.이를 통해 체계적인 업무 처리와 현장 대응력을 높일 수 있었습니다.
 
@@ -62,9 +60,7 @@ content:
         title: 방송통신대학교
         caption: 재학중
 
-        # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+    
       - layout: left
         title: 방송통신대학교
         caption: 재학중
