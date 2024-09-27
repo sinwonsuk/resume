@@ -67,12 +67,13 @@ content:
         title: 호서대학교
         caption: 2016.02~2017.06
         quote: >
+        description: | # this will include new lines to allow paragraphs
+         학업 도중 게임 개발에 더 많은 시간을 투자하며, 실전 프로젝트 경험을 쌓았습니다.
 
-
- - title: A Little More About Me
-   layout: text
-   content: | # this will include new lines to allow paragraphs
-     게임개발 외에도 다음과 같은 관심사와 취미가 있습니다.
+  - title: A Little More About Me
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      게임개발 외에도 다음과 같은 관심사와 취미가 있습니다.
       - 게임
       - 헬스
       - 노름      
