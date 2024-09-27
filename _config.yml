@@ -7,9 +7,10 @@ version: 2
 
 # Personal info
 name: 신원석
-title: 게임 개발 클라이언트 지원자
+title: 게임 클라이언트 지원자
 email: onerpg3023@gmail.com
-website: https://github.com/sinwonsuk
+git: https://github.com/sinwonsuk
+phone: 010-5383-2470
 
 # Dark Mode (true/false/never)
 darkmode: false
