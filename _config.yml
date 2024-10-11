@@ -25,16 +25,21 @@ content:
   - title: Projects
     layout: list
     content:
-      - layout: top-middle
-        link: https://github.com/sinwonsuk/Unity_Dave_The_Diver
-      - layout: top-middle
-        link: https://github.com/chang-ha/DirectX_3DTeamPortfolio
-      - layout: top-middle
-        link: https://github.com/sinwonsuk/Directx11_Cuphead
-      - layout: top-middle
-        link: https://github.com/sinwonsuk/Directx_Moonlight
-      - layout: top-middle
-        link: https://github.com/sinwonsuk/Winapi_MetalSlug2
+      - layout: left
+        title: 데이브 더 다이버
+        description: |
+            link: https://github.com/sinwonsuk/Unity_Dave_The_Diver
+
+      # - layout: top-middle
+      #   link: https://github.com/sinwonsuk/Unity_Dave_The_Diver
+      # - layout: top-middle
+      #   link: https://github.com/chang-ha/DirectX_3DTeamPortfolio
+      # - layout: top-middle
+      #   link: https://github.com/sinwonsuk/Directx11_Cuphead
+      # - layout: top-middle
+      #   link: https://github.com/sinwonsuk/Directx_Moonlight
+      # - layout: top-middle
+      #   link: https://github.com/sinwonsuk/Winapi_MetalSlug2
 
         additional_links:
           - title: sproogen/modern-resume-theme
