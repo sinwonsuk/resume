@@ -17,6 +17,7 @@ darkmode: false
 
 # About Me
 about_profile_image: images/profile.jpg
+
 about_content: |
    안녕하세요, 게임 클라이언트 개발자에 지원하는 신원석입니다. 저는 동료들과 지식을 공유하고, 함께 성장하는 과정을 소중하게 여깁니다. 앞으로는 더 나아가, 팀원들에게 멘토링을 제공하며 성장을 돕는 개발자가 되고 싶습니다.
 
@@ -40,7 +41,7 @@ content:
             icon: fab fa-github
             url: https://github.com/sproogen/modern-resume-theme
         description: |
-          다양한 모작을 통해 게임의 시스템과 설계 원리를 깊이 이해하고, 실제 개발에 적용할 수 있는 기초 역량을 갖추게 되었습니다.
+                              다양한 모작을 통해 게임의 시스템과 설계 원리를 깊이 이해하고, 실제 개발에 적용할 수 있는 기초 역량을 갖추게 되었습니다.
 
   - title: Experience
     layout: list
