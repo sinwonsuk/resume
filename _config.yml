@@ -24,8 +24,17 @@ content:
   - title: Projects
     layout: list
     content:
+      - layout: top-left
+        link: https://github.com/sinwonsuk/Unity_Dave_The_Diver
       - layout: top-middle
-        link: https://github.com/sinwonsuk
+        link: https://github.com/chang-ha/DirectX_3DTeamPortfolio
+      - layout: top-right
+        link: https://github.com/sinwonsuk/Directx11_Cuphead
+      - layout: middle-right
+        link: https://github.com/sinwonsuk/Directx_Moonlight
+      - layout: middle-middle
+        link: https://github.com/sinwonsuk/Winapi_MetalSlug2
+
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
@@ -52,13 +61,12 @@ content:
         description: |
           게임 개발 공부를 하다 보니 기초적인 부분에서 부족함을 느껴 방송통신대학교에 재학 중입니다.
 
-  - title: A Little More About Me
-    layout: text
-    content: |
-      게임 개발 외에도 다음과 같은 관심사와 취미가 있습니다:
-      - 게임
-      - 헬스
-      - 노름
+
+
+
+
+
+
 
   - title: Cover Letter
     layout: text   
