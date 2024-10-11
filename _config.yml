@@ -28,7 +28,7 @@ content:
       - layout: left
         title: 데이브 더 다이버
         description: |
-            link: https://github.com/sinwonsuk/Unity_Dave_The_Diver
+          [Dave the Diver GitHub Repository](https://github.com/sinwonsuk/Unity_Dave_The_Diver)
 
       # - layout: top-middle
       #   link: https://github.com/sinwonsuk/Unity_Dave_The_Diver
