@@ -82,12 +82,12 @@ content:
         title: 방송통신대학교
         caption: 재학 중
         description: |
-          컴퓨터 공학과 재학중 입니다. 
+          컴퓨터 과학과 재학중
       - layout: left
         title: 호서대학교
         caption: 2016.02~2017.08 
         description: |
-          신소재 공학과 자퇴 했습니다. 
+          신소재 공학과 수료
        
   - title: Cover Letter
     layout: text   
