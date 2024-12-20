@@ -26,6 +26,11 @@ content:
     layout: list
     content:
       - layout: left
+        title: 채팅서버
+        caption: 2024.12.17~2024.12.20
+        description: |    
+          [https://github.com/sinwonsuk/ChattingProject](https://github.com/sinwonsuk/ChattingProject)<br>[유튜브 링크](https://youtu.be/iyB0PRGVqKc) 
+      - layout: left
         title: 데이브 더 다이버
         caption: 2024.06~2024.09
         description: |    
