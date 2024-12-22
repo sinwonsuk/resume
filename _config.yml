@@ -27,6 +27,11 @@ content:
     layout: list
     content:
       - layout: left
+        title: WPF 미디어 플레이어
+        caption: 2024.12.20~2024.12.23
+        description: |    
+          [https://github.com/sinwonsuk/WPf_MediaPlayer](https://github.com/sinwonsuk/WPf_MediaPlayer)<br>[유튜브 링크](https://youtu.be/Tn9kLnXlcs4) 
+      - layout: left
         title: 채팅서버
         caption: 2024.12.17~2024.12.20
         description: |    
